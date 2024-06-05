@@ -1,22 +1,20 @@
 ---
-title: "Banana is the best meal packages in the UK spark outrage online"
+title: "Movimiento Gente Libre - Visión"
 description: "meta description"
 date: 2022-04-05T16:56:47+06:00
 image: "/images/posts/05.jpg"
 draft: false
-authors: ["John Doe"]
+authors: ["Patricio Vaca Escobar"]
 tags: ["Food", "Gold"]
 categories: ["Food"]
 ---
 
-A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas.
+Consolidarse como el Principal Movimiento Político del la Provincia de Los Rios, con una definida identidad social, política, que logre Cristalizar el “sueño americano” en el Ecuador.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+### nuestra Visión
 
-### Creative Design
+Nuestra visión es consolidarnos como el principal movimiento político de la Provincia de Los Ríos, con una clara y definida identidad social y política. Nos esforzamos por ser la voz y el representante legítimo de los intereses y aspiraciones de nuestra comunidad. A través de un liderazgo inclusivo y participativo, buscamos conectar con cada ciudadano y entender profundamente sus necesidades, preocupaciones y sueños, para así poder trabajar en políticas y proyectos que realmente hagan una diferencia en sus vidas.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+> Nuestro compromiso es construir una base sólida y coherente que refleje los valores y principios de nuestra identidad. Creemos en la importancia de una política transparente, honesta y comprometida con el bienestar común. Al consolidar nuestra posición, aspiramos a ser el faro que guía a nuestra comunidad hacia un futuro mejor, donde cada persona tenga la oportunidad de alcanzar sus sueños y vivir con dignidad y prosperidad. Nos dedicamos a promover la justicia social, la igualdad de oportunidades y el desarrollo sostenible para todos los habitantes de la provincia.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+En última instancia, nuestra visión es lograr cristalizar el "sueño americano" en el contexto ecuatoriano, adaptándolo a nuestra realidad y necesidades locales. Queremos que cada ciudadano de Los Ríos sienta que tiene la posibilidad de mejorar su vida y alcanzar sus metas, sin importar su origen o condición. A través de políticas inclusivas, desarrollo económico, educación de calidad y un compromiso inquebrantable con los derechos humanos, nos proponemos transformar nuestra provincia en un lugar donde el progreso y la justicia sean accesibles para todos, haciendo del sueño ecuatoriano una realidad tangible.
