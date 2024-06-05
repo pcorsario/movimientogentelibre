@@ -1,12 +1,12 @@
 ---
 title: "Movimiento Gente Libre - Visión"
 description: "meta description"
-date: 2022-04-05T16:56:47+06:00
+date: 2024-04-05T16:56:47+06:00
 image: "/images/posts/05.jpg"
 draft: false
 authors: ["Patricio Vaca Escobar"]
 tags: ["Food", "Gold"]
-categories: ["Food"]
+categories: ["deporte"]
 ---
 
 Consolidarse como el Principal Movimiento Político del la Provincia de Los Rios, con una definida identidad social, política, que logre Cristalizar el “sueño americano” en el Ecuador.
