@@ -1,5 +1,5 @@
 ---
-title: "Become a morning person with the help of alarm clock"
+title: "MGL presente en los Juegos de la Juventud"
 description: "meta description"
 date: 2022-04-06T16:56:47+06:00
 image: "/images/posts/06.jpg"
@@ -9,7 +9,7 @@ tags: ["Alarm", "Clock"]
 categories: ["LifeStyle"]
 ---
 
-Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.
+El pasado 30 de agosto del 2022 se llevó a cabo los juegos de la juventud.
 
 To make a morning person out of you, the wake-up light simulates the sunrise to gradually ease you awake. This allows you to wake up more naturally rather than being jolted awake by the default iPhone alarm sound, which honestly triggers my fight or flight response.
 
